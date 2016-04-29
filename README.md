@@ -1,2 +1,4 @@
 # hello-world
-a hello-world repository
+
+Hi Humins:
+  minxue,here,welcome to my github
