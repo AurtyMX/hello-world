@@ -1,4 +1,4 @@
 # hello-world
 
-Hi Humins:
+Hi Humans:
   minxue,here,welcome to my github
